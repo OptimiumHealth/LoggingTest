@@ -1,0 +1,8 @@
+C:\Solutions\TemporarySolutions\LoggingTest\LoggingTest\Server\obj\Debug\net5.0\LoggingTest.Server.csprojAssemblyReference.cache
+C:\Solutions\TemporarySolutions\LoggingTest\LoggingTest\Server\obj\Debug\net5.0\LoggingTest.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Solutions\TemporarySolutions\LoggingTest\LoggingTest\Server\obj\Debug\net5.0\LoggingTest.Server.AssemblyInfoInputs.cache
+C:\Solutions\TemporarySolutions\LoggingTest\LoggingTest\Server\obj\Debug\net5.0\LoggingTest.Server.AssemblyInfo.cs
+C:\Solutions\TemporarySolutions\LoggingTest\LoggingTest\Server\obj\Debug\net5.0\LoggingTest.Server.csproj.CoreCompileInputs.cache
+C:\Solutions\TemporarySolutions\LoggingTest\LoggingTest\Server\obj\Debug\net5.0\LoggingTest.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Solutions\TemporarySolutions\LoggingTest\LoggingTest\Server\obj\Debug\net5.0\LoggingTest.Server.RazorAssemblyInfo.cache
+C:\Solutions\TemporarySolutions\LoggingTest\LoggingTest\Server\obj\Debug\net5.0\LoggingTest.Server.RazorAssemblyInfo.cs

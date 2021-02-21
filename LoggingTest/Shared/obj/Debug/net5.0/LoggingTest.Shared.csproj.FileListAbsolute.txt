@@ -1,0 +1,12 @@
+C:\Solutions\TemporarySolutions\LoggingTest\LoggingTest\Shared\bin\Debug\net5.0\LoggingTest.Shared.deps.json
+C:\Solutions\TemporarySolutions\LoggingTest\LoggingTest\Shared\bin\Debug\net5.0\LoggingTest.Shared.dll
+C:\Solutions\TemporarySolutions\LoggingTest\LoggingTest\Shared\bin\Debug\net5.0\ref\LoggingTest.Shared.dll
+C:\Solutions\TemporarySolutions\LoggingTest\LoggingTest\Shared\bin\Debug\net5.0\LoggingTest.Shared.pdb
+C:\Solutions\TemporarySolutions\LoggingTest\LoggingTest\Shared\obj\Debug\net5.0\LoggingTest.Shared.csprojAssemblyReference.cache
+C:\Solutions\TemporarySolutions\LoggingTest\LoggingTest\Shared\obj\Debug\net5.0\LoggingTest.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Solutions\TemporarySolutions\LoggingTest\LoggingTest\Shared\obj\Debug\net5.0\LoggingTest.Shared.AssemblyInfoInputs.cache
+C:\Solutions\TemporarySolutions\LoggingTest\LoggingTest\Shared\obj\Debug\net5.0\LoggingTest.Shared.AssemblyInfo.cs
+C:\Solutions\TemporarySolutions\LoggingTest\LoggingTest\Shared\obj\Debug\net5.0\LoggingTest.Shared.csproj.CoreCompileInputs.cache
+C:\Solutions\TemporarySolutions\LoggingTest\LoggingTest\Shared\obj\Debug\net5.0\LoggingTest.Shared.dll
+C:\Solutions\TemporarySolutions\LoggingTest\LoggingTest\Shared\obj\Debug\net5.0\ref\LoggingTest.Shared.dll
+C:\Solutions\TemporarySolutions\LoggingTest\LoggingTest\Shared\obj\Debug\net5.0\LoggingTest.Shared.pdb
